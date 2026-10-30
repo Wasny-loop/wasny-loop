@@ -34,8 +34,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Wasny-loop/Wasny-loop/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Wasny-loop&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=Wasny-loop&show_icons=true&include_all_commits=true&theme=dracula)
 
 ###
